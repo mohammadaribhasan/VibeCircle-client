@@ -1,3 +1,5 @@
+<img width="1302" height="647" alt="Screenshot 2025-08-08 122703" src="https://github.com/user-attachments/assets/e8c7658d-8a48-4be0-a5c4-6cdd7d8b79d7" />
+
 # MERN Stack Forum Application
 
 Live Link : https://assignment-12-1f976.web.app
