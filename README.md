@@ -1,16 +1,16 @@
+# VibeCircle — Frontend
+
 ## 📸 Screenshot
 <img width="1302" height="647" alt="Screenshot 2025-08-08 122703" src="https://github.com/user-attachments/assets/e8c7658d-8a48-4be0-a5c4-6cdd7d8b79d7" />
 
 ---
 
-# VibeCircle — Frontend
 
-<img width="100%" alt="Project Banner" src="https://github.com/user-attachments/assets/96a681af-beb9-4023-850b-4c575d9cf959" />
 
 ## 🔎 Description
 FreelanceTasker is a marketplace-style web app where individuals post small tasks and freelancers bid on them. The frontend (React + Tailwind) provides routes for browsing tasks, posting new tasks (protected), viewing task details, managing the user's posted tasks, and placing bids. Includes auth (Email/Password + Google), dark/light theme, carousel banner, toasts, and loading states.
 
-- **Live demo:** `Live Link : https://assignment-12-1f976.web.app` 
+- **Live demo:** `https://assignment-12-1f976.web.app` 
 
 ---
 
